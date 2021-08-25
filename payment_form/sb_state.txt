@@ -1,0 +1,5 @@
+wordArray
+Define counter variable
+
+While count is less than 15
+Userwo
